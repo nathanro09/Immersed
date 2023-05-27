@@ -19,7 +19,7 @@ As a key member of the team, I specialized in front-end development for use by b
 &nbsp; -Provide a method in which Users will encounter a conequence or reward when interacting with a specific Ad.</p>
 &nbsp; Execution: 
   </br>
-<p>&nbsp; Created an Ad Form to include an Input Field as well as an Output Field to preview the inserted Data. For the Ad Viewer, I created a Primary View as well as a Thumbnail View using both React-Bootstrap Carousel and React-Slick. I &nbsp;&nbsp;implemented sweetalert2 for Users to interact with when clicking the Ad Image.</p>
+<p>&nbsp; Created an Ad Form to include an Input Field as well as an Output Field to preview the inserted Data. For the Ad Viewer, I created a Primary &nbsp;&nbsp;View as well as a Thumbnail View using both React-Bootstrap Carousel and React-Slick. I implemented sweetalert2 for Users to interact with when clicking the Ad Image.</p>
 &nbsp; Blockers:
   </br>
 <p>&nbsp; One of the Main blockers for this task was the implementation of React-Slick. I wanted to create a Vertical Slider for the Thumbnails, but &nbsp;&nbsp;encountered issues with slide-scrolling when clicking on a new ad. Also, after some research, I found that many of React-Slicks' props were &nbsp;&nbsp;deprecated.</p>
