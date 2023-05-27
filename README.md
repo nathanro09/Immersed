@@ -22,7 +22,7 @@ As a key member of the team, I specialized in front-end development for use by b
 <p>&nbsp; Created an Ad Form to include an Input Field as well as an Output Field to preview the inserted Data. For the Ad &nbsp;&nbsp;Viewer, I created a Primary View as well as a Thumbnail View using both React-Bootstrap Carousel and React-Slick. I &nbsp;&nbsp;implemented sweetalert2 for Users to interact with when clicking the Ad Image.</p>
 &nbsp; Blockers:
   </br>
-<p>&nbsp; One of the Main blockers for this task was the implementation of React-Slick. I wanted to create a Vertical Slider for the Thumbnails, but &nbsp;&nbsp;encountered issues with slide-scrolling when clicking on a new ad. Also, after some research, I found that many of React-Slicks' props were &nbsp;&nbsp;deprecated.</p>
+<p>&nbsp; One of the Main blockers for this task was the implementation of React-Slick. I wanted to create a Vertical Slider for &nbsp;&nbsp;the Thumbnails, but encountered issues with slide-scrolling when clicking on a new ad. Also, after some research, I &nbsp;&nbsp;found that many of React-Slicks' props were deprecated.</p>
 &nbsp; Solution:
   </br>
 <p>&nbsp; I used React-Bootstrap Carousel to make each individual Ad Thumbnail a Carousel item, then implemented React-Slick to map out each &nbsp;&nbsp;Carousel Item as a Slide. This prevented the duplicate view for Ads when applying Infinite scrolling as well as providing the accurate and &nbsp;&nbsp;centered Thumbnail when clicking on the next slide.</p>
