@@ -25,7 +25,7 @@ As a key member of the team, I specialized in front-end development for use by b
 <p>&nbsp; One of the Main blockers for this task was the implementation of React-Slick. I wanted to create a Vertical Slider for &nbsp;&nbsp;the Thumbnails, but encountered issues with slide-scrolling when clicking on a new ad. Also, after some research, I &nbsp;&nbsp;found that many of React-Slicks' props were deprecated.</p>
 &nbsp; Solution:
   </br>
-<p>&nbsp; I used React-Bootstrap Carousel to make each individual Ad Thumbnail a Carousel item, then implemented &nbsp;&nbsp;React-Slick to map out each Carousel Item as a Slide. This prevented the duplicate view for Ads when applying &nbsp;&nbsp;Infinite scrolling as well as providing the accurate and centered Thumbnail when clicking on the next slide.</p>
+<p>&nbsp; I used React-Bootstrap Carousel to make each individual Ad Thumbnail a Carousel item, then implemented React-Slick to map out each Carousel Item as a Slide. This prevented the duplicate view for Ads when applying Infinite scrolling as well as providing the accurate and centered Thumbnail when clicking on the next slide.</p>
 <h4>&nbsp; 2. KArcade</h4>
 &nbsp; Task:
   </br>
