@@ -41,8 +41,8 @@ As a key member of the team, I specialized in front-end development for use by b
 <p>&nbsp; I created all of the visuals in Adobe Illustrator/Adobe Photoshop and applied them as background images. I created &nbsp;&nbsp;transparent clickable zones using React-Bootstrap Col/Rows and adjusting their dimensions with "clip-path: &nbsp;&nbsp;polygon" to match the dimensions of each zone, so users may be able to distinguish interactive zones when &nbsp;&nbsp;hovered. I implemented "state" as useLocation to conditionally render components by passing "state.type." Also, I &nbsp;&nbsp;inserted and an audio option using custom, edited .wav files provided by another team member.</p>
 &nbsp; Blockers:
   </br>
-<p>&nbsp; The biggest blocker for this task was Time-Management. Since I had to create all the visuals, audio, and functionality within my given deadline, I was initially a bit overwhelmed by the complexity of this application.</p>
+<p>&nbsp; The biggest blocker for this task was Time-Management. Since I had to create all the visuals, audio, and functionality &nbsp;&nbsp;within my given deadline, I was initially a bit overwhelmed by the complexity of this application.</p>
 &nbsp; Solution:
   </br>
-<p>&nbsp; I created a User Flow diagram to visualize the overall user experience. I then created a list of priorities in relation to the purpose of each task. For the Interface aspect of this application, I created simple Vector Art to provide a basic foundation for future developers to easily grasp and mimic. I focused on all the initial components depicted in the Menu Component, then prioritized on the lesson plans and mini-games.
+<p>&nbsp; I created a User Flow diagram to visualize the overall user experience. I then created a list of priorities in relation to &nbsp;&nbsp;the purpose of each task. For the Interface aspect of this application, I created simple Vector Art to provide a basic &nbsp;&nbsp;foundation for future developers to easily grasp and mimic. I focused on all the initial components depicted in the &nbsp;&nbsp;Menu Component, then prioritized on the lesson plans and mini-games.
 
