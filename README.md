@@ -31,7 +31,7 @@ As a key member of the team, I specialized in front-end development for use by b
   </br>
 <p>&nbsp; -Create an Application where Users will be able to Learn Korean through lesson plans and mini-games.
   </br>
-&nbsp; -Implement Dynamic Routing so components will be conditionally rendered in a single component instead of navigating to a new component.
+&nbsp; -Implement Dynamic Routing so components will be conditionally rendered in a single component instead of &nbsp;&nbsp;navigating to a new component.
   </br>
 &nbsp; -Provide unique Visuals as well as a Logo specific to this Application.
   </br>
