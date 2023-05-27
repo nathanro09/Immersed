@@ -25,20 +25,20 @@ As a key member of the team, I specialized in front-end development for use by b
 <p>&nbsp; One of the Main blockers for this task was the implementation of React-Slick. I wanted to create a Vertical Slider for &nbsp;&nbsp;the Thumbnails, but encountered issues with slide-scrolling when clicking on a new ad. Also, after some research, I &nbsp;&nbsp;found that many of React-Slicks' props were deprecated.</p>
 &nbsp; Solution:
   </br>
-<p>&nbsp; I used React-Bootstrap Carousel to make each individual Ad Thumbnail a Carousel item, then implemented React-Slick to map out each Carousel Item as a Slide. This prevented the duplicate view for Ads when applying Infinite scrolling as well as providing the accurate and centered Thumbnail when clicking on the next slide.</p>
+<p>&nbsp; I used React-Bootstrap Carousel to make each individual Ad Thumbnail a Carousel item, then implemented React &nbsp;&nbsp;Slick to map out each Carousel Item as a Slide. This prevented the duplicate view for Ads when applying Infinite &nbsp;&nbsp;scrolling as well as providing the accurate and centered Thumbnail when clicking on the next slide.</p>
 <h4>&nbsp; 2. KArcade</h4>
 &nbsp; Task:
   </br>
 <p>&nbsp; -Create an Application where Users will be able to Learn Korean through lesson plans and mini-games.
   </br>
-&nbsp; -Implement Dynamic Routing so components will be conditionally rendered in a single component instead of &nbsp;&nbsp;&nbsp;navigating to a new component.
+&nbsp; -Implement Dynamic Routing so components will be conditionally rendered in a single component instead of &nbsp;&nbsp;&nbsp;&nbsp;navigating to a new component.
   </br>
 &nbsp; -Provide unique Visuals as well as a Logo specific to this Application.
   </br>
 &nbsp; -Provide Accessibility options for Users.</p>
 &nbsp; Execution:
   </br>
-<p>&nbsp; I created all of the visuals in Adobe Illustrator/Adobe Photoshop and applied them as background images. I created transparent clickable zones using React-Bootstrap Col/Rows and adjusting their dimensions with "clip-path: polygon" to match the dimensions of each zone, so users may be able to distinguish interactive zones when hovered. I implemented "state" as useLocation to conditionally render components by passing "state.type." Also, I inserted and an audio option using custom, edited .wav files provided by another team member.</p>
+<p>&nbsp; I created all of the visuals in Adobe Illustrator/Adobe Photoshop and applied them as background images. I created &nbsp;&nbsp;transparent clickable zones using React-Bootstrap Col/Rows and adjusting their dimensions with "clip-path: polygon" &nbsp;&nbsp;to match the dimensions of each zone, so users may be able to distinguish interactive zones when hovered. I &nbsp;&nbsp;implemented "state" as useLocation to conditionally render components by passing "state.type." Also, I inserted and &nbsp;&nbsp;an audio option using custom, edited .wav files provided by another team member.</p>
 &nbsp; Blockers:
   </br>
 <p>&nbsp; The biggest blocker for this task was Time-Management. Since I had to create all the visuals, audio, and functionality within my given deadline, I was initially a bit overwhelmed by the complexity of this application.</p>
