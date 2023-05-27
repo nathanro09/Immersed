@@ -7,7 +7,7 @@ Immersed is a web application that offers a safe and educational platform for ki
 As Immersed is currently in its Minimum Viable Product (MVP) stage, I am unable to provide full access to the proprietary code. However, I have provided code snippets as well as screenshots in correlation to my personal contributions. Hopefully, this will give you a visual understanding of the functionality and practicality of the overall User Interface and Experience.
   </br>
 <h3>What was my Role in this project?</h3>
-As a key member of the team, I specialized in front-end development for use by both the System Administrator and User. Below, I will provide a brief overview of my tasks, responsibilities, and though-process.
+As a key member of the team, I specialized in front-end development for use by both the System Administrator and User. Below, I will provide a brief overview of my tasks and responsibilities.
   </br>
 <h4>&nbsp; 1. Ads</h4>
 &nbsp; Task:
